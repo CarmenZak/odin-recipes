@@ -1,0 +1,1 @@
+This is my first html project that will put in to practise what I have learned. I will create a recipe website with an index page, several recipe pages, and populate the pages with headings, images and links. I will then commit to git and publish via github. Let's go!
